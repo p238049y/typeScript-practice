@@ -1,0 +1,2 @@
+# typeScript-practice
+typeScriptの処理を勉強するためのリポジトリ
